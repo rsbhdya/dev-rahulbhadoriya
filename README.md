@@ -1,6 +1,6 @@
 # Hey there, I'm Rahul 👋
 
-**Senior Software Engineer | AI Backend & Distributed Systems**
+**Senior Software Engineer | AI Backend & Cloud Engineer**
 
 I'm a senior engineer with ~6 years of experience building distributed systems, multi-tenant SaaS platforms, and production AI systems. Lately I've been deep in RAG pipelines, semantic search, long-term memory, and Model Context Protocol (MCP) servers — turning LLMs into products that hold up at enterprise scale. I also lead engineering teams, currently mentoring 14 engineers on an AI SaaS platform serving 50+ enterprise customers.
 
